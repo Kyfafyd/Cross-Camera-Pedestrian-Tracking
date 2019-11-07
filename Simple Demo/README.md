@@ -13,7 +13,7 @@ Tested under python3.7  MacOS 10.14.6
   - torch >= 1.0
 
 ## Download weights
-Download from [here](https://pan.zju.edu.cn/share/09919f945ae2fd0d03d45f4010)
+Download from [here](https://pan.zju.edu.cn/share/6820e9685ffdb4cae86e9f25c0), password:qscx
 
 After download, put the weights into the floder **person_search_demo/weights**
 
