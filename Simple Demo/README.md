@@ -29,7 +29,7 @@ The results will be saved in the output folder
 
 ## Train
 
-Pedestrian detection model is YOLOv3 code, so you can directly use the original [YOLO](https://link.zhihu.com/? Target=https%3A//github.com/ultralytics/yolov3) code for training, get the weight file.
+You can directly use the original [YOLO](https://link.zhihu.com/? Target=https%3A//github.com/ultralytics/yolov3) code for training.
 
-Pedestrian re-identification model is adopted [strong Reid baseline](https://link.zhihu.com/? Target=https%3A//github.com/michuanhaohao/reid-strong-baseline) model, but in order to achieve better generalization effect, can be more joint training data set, get the final weight file.
+Pedestrian re-identification model is adopted [strong Reid baseline](https://link.zhihu.com/? Target=https%3A//github.com/michuanhaohao/reid-strong-baseline) model.
 
