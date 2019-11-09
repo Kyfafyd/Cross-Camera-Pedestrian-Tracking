@@ -29,7 +29,7 @@ The results will be saved in the output folder
 
 ## Train
 
-You can directly use the original [YOLO](https://link.zhihu.com/? Target=https%3A//github.com/ultralytics/yolov3) code for training.
+You can directly use the original [YOLO](https://link.zhihu.com/?Target=https%3A//github.com/ultralytics/yolov3) code for training.
 
-Pedestrian re-identification model is adopted [strong Reid baseline](https://link.zhihu.com/? Target=https%3A//github.com/michuanhaohao/reid-strong-baseline) model.
+Pedestrian re-identification model is adopted [strong Reid baseline](https://link.zhihu.com/?Target=https%3A//github.com/michuanhaohao/reid-strong-baseline) model.
 
