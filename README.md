@@ -10,6 +10,10 @@ SRTP@[ISEE, ZJU](http://www.isee.zju.edu.cn/main.htm)
 
 **Nov 5, 2019**	A simple demo to process images		
 
+## Platform
+
+MacOS majove(VS Code)
+
 ## Contact
 
 [ZHAO WANG](mailto:Kyfafyd@zju.edu.cn)
