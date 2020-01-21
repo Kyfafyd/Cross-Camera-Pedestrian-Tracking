@@ -1,24 +1,38 @@
-## Project Background
+Person search
+===============
 
-Use multiple cameras to track a target pedestrian
+<img src="show.jpg" width="900px"/>
 
-SRTP@[ISEE, ZJU](http://www.isee.zju.edu.cn/main.htm)
+### Dependencies
 
-## Update
+Tested under python3.7  MacOS 10.14.6
 
-**Nov 9, 2019**	Update README.md
+- python packages
+  - opencv-python
+  - tb-nightly
+  - torch >= 1.0
 
-**Nov 5, 2019**	A simple demo to process images		
+### Download weights
 
-## Platform
+Download from [here](https://pan.zju.edu.cn/share/6820e9685ffdb4cae86e9f25c0), password:qscx
 
-MacOS majove(VS Code)
+After download, put the weights into the floder **person_search_demo/weights**
 
-## Contact
+### Test
 
-[ZHAO WANG](mailto:Kyfafyd@zju.edu.cn)
+```bash
+cd <path to this floder>
+python search.py
+```
 
-## License
+The results will be saved in the output folder
 
-MIT
+### Train
 
+You can directly use the original [YOLO](https://link.zhihu.com/?Target=https%3A//github.com/ultralytics/yolov3) code for training.
+
+Pedestrian re-identification model is adopted [strong Reid baseline](https://link.zhihu.com/?Target=https%3A//github.com/michuanhaohao/reid-strong-baseline) model.
+
+### WebSite
+
+[url](https://kyfafyd.wang/ccpk/index.html)
